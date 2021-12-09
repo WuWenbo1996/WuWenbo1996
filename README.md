@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on research of machine learning and deep learning.
 - 📫 If you want to reach me, please send email to 616562636@qq.com.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
 <summary>GitHub统计信息</summary>
 
@@ -17,9 +20,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCUTCS-WWB&)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 </details>

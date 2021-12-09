@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on research of machine learning and deep learning.
 - 📫 If you want to reach me, please send email to 616562636@qq.com.
 
+<details>
 <summary>GitHub统计信息</summary>
+
 <!---
 SCUTCS-WWB/SCUTCS-WWB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -17,3 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 <!--END_SECTION:waka-->
 <!--END_SECTION:waka-->
+</details>

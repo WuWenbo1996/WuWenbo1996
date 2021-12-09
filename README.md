@@ -5,6 +5,9 @@
 - 📫 If you want to reach me, please send email to 616562636@qq.com.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <details>

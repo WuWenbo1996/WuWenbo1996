@@ -19,7 +19,7 @@ Python   3 mins          ██████████████████�
 
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuWenbo1996&)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align='right' src='https://octodex.github.com/images/inspectocat.jpg' width='200"'>
 <!---
 WuWenbo1996/WuWenbo1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
